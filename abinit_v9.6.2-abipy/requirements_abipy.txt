@@ -1,0 +1,30 @@
+abipy
+monty
+tabulate
+apscheduler==2.1.0
+pydispatcher>=2.0.5
+tqdm
+pyyaml>=3.11
+pandas
+numpy
+scipy
+sympy
+spglib
+pymatgen>=2019.10.16
+netCDF4
+matplotlib
+seaborn
+# Optional packages (recommended for post-processing and visualization)
+ipython
+jupyter
+nbformat
+pygments
+ipywidgets
+networkx
+scikit-image
+#graphviz or python-graphviz if conda
+phonopy
+ase
+param
+panel
+bokeh
