@@ -15,6 +15,7 @@ netCDF4
 matplotlib
 seaborn
 # Optional packages (recommended for post-processing and visualization)
+click
 ipython
 jupyter
 nbformat
